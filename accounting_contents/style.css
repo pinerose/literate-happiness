@@ -47,6 +47,10 @@ nav a{
     color: dimgray;
 }
 
+a{
+    color:dimgrey;
+}
+
 nav a:not(:first-child) {
     border-left: 0.15rem solid lightgrey;
 }
