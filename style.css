@@ -32,6 +32,10 @@ nav {
     border-bottom: 0.15rem solid lightgray;
 }
 
+a{
+    color: dimgray;
+}
+
 nav a{
     width: 25%;
     height: 100%;
