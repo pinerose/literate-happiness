@@ -17,7 +17,7 @@ h1 {
     margin: 0 auto;
     display: block;
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
     
 }
 
@@ -62,7 +62,7 @@ nav a:not(:first-child) {
 #description p{
     width: 100%;
     padding-top:10% ;
-    font-size: 1.5rem;
+    font-size: 3rem;
     text-align: center;
     line-height: 1.7;
 }
